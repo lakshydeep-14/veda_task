@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109629476422",
+    "project_id": "veda-cca00",
+    "storage_bucket": "veda-cca00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109629476422:android:be1cfaeaa0811fb59b8447",
+        "android_client_info": {
+          "package_name": "com.example.veda_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109629476422-758ibnqq2m1rt3srmml660b9afdov8tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.veda_task",
+            "certificate_hash": "7c9c165a5b1b4c6ed0c9efec6f265e32948202ae"
+          }
+        },
+        {
+          "client_id": "109629476422-2cpvb18ek9f82082m4n4gi516jp8lr4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdIJ8B199VQqzxAGDvng4XsXyRtQlkQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109629476422-2cpvb18ek9f82082m4n4gi516jp8lr4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
